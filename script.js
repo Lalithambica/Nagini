@@ -2,9 +2,9 @@
 const GRID_SIZE = 18;
 const FOOD_SPAWN_RANGE = {min: 2, max: 16}; // Grid range for food/bomb spawn
 let inputDir = {x: 0, y: 0};
-const moveSound = new Audio("/Nagini/audio_image_files/move.mp3");
-const foodSound = new Audio("/Nagini/audio_image_files/food.mp3");
-const gameOverSound = new Audio("/Nagini/audio_image_files/Game_Over.mp3");
+const moveSound = new Audio("/move.mp3");
+const foodSound = new Audio("/food.mp3");
+const gameOverSound = new Audio("/Game_Over.mp3");
 let speed = 6;
 let foodSpeed = 4;
 let lastPaintTime = 0;

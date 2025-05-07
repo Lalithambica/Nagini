@@ -4,7 +4,7 @@
 }
 
 body{
-    background: url("audio_image_files/Bg.png");
+    background: url("/Bg.png");
     min-height: 100vh;
     background-size: 100vw 100vh;
     background-repeat: no-repeat;
@@ -24,24 +24,24 @@ body{
 }
 
 .snake{
-    background :url("/audio_image_files/Severous.jpg");
+    background :url("/Severous.jpg");
     background-size: cover;
     background-repeat: no-repeat
 }
 
 .food{
-    background :url("/audio_image_files/harry.png");
+    background :url("/harry.png");
     background-size: cover;
     background-repeat: no-repeat
 }
 
 .head{
-    background :url("/audio_image_files/Lordvoldemort.jpg");
+    background :url("/Lordvoldemort.jpg");
     background-size: cover;
     background-repeat: no-repeat}
 
 .bomb {
-    background: url("/audio_image_files/Dumbledoor.jpg"); /* Place bomb.png in your project */
+    background: url("/Dumbledoor.jpg"); /* Place bomb.png in your project */
     background-size: cover;
     background-repeat: no-repeat;
 }
