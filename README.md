@@ -36,7 +36,7 @@ Nagini waits to eat food while Lord Voldermort tries to catch Harry. But Harry r
 
 ## 🧑‍💻 Link to Play
   The game is already deployed. Please use the following link to navigate to the game
-
+  [Nagini](https://nagini-5bsg1cif0-lalithachepuri18gmailcoms-projects.vercel.app/)
   ---
 
 ## 🤝 Contributing
