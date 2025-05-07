@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background: url("audio_image_files/Bg.png");
+    min-height: 100vh;
+    background-size: 100vw 100vh;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#playArea{
+    background: linear-gradient(rgb(147, 249, 147), rgb(249, 249, 142));
+    width: 90vmin;
+    height: 92vmin;
+    border: 2px solid black;
+    display: grid;
+    grid-template-rows: repeat(18, 1fr);
+    grid-template-columns: repeat(18, 1fr);
+}
+
+.snake{
+    background :url("/audio_image_files/Severous.jpg");
+    background-size: cover;
+    background-repeat: no-repeat
+}
+
+.food{
+    background :url("/audio_image_files/harry.png");
+    background-size: cover;
+    background-repeat: no-repeat
+}
+
+.head{
+    background :url("/audio_image_files/Lordvoldemort.jpg");
+    background-size: cover;
+    background-repeat: no-repeat}
+
+.bomb {
+    background: url("/audio_image_files/Dumbledoor.jpg"); /* Place bomb.png in your project */
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+    
+#scorebox{
+    position: absolute;
+    top: 10px;
+    right: 200px;
+    font-size: 39px;
+    font-weight: bold;
+}
+
+#hiscorebox{
+    position: absolute;
+    top: 65px;
+    right: 162px;
+    font-size: 39px;
+    font-weight: bold;
+}
