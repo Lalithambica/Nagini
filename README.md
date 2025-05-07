@@ -3,52 +3,44 @@
 ## 📌 Table of Contents
 - [About](#about)
 - [Features](#features)
-- [Demo](#demo)
 - [Technologies](#technologies)
-- [Setup Instructions](#setup-instructions)
-- [Gameplay](#gameplay)
-- [Folder Structure](#folder-structure)
+- [Link to Play](#link-to-play)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
 ## 🧠 About
-A classic Snake game built using **HTML**, **CSS**, and **JavaScript**, enhanced with:
-- Moving food that avoids the snake
-- Randomly appearing bombs
-- Sound effects for movement, food, and game over
+Nagini waits to eat food while Lord Voldermort tries to catch Harry. But Harry runs away from Voldermort. As Voldermort eats Harry, Voldermort grows. Harry whenever Dumbledore is present goes near him to hide. As Voldermort fears Dumbledore, Voldermort tries not to meet Dumbledore.
+
 - Score and high-score tracking using `localStorage`
 
 ---
 
 ## 🌟 Features
 - 🕹️ Smooth arrow-key controls
-- 🍎 Food moves away from the snake and toward bombs
-- 💣 Randomly appearing bombs that end the game on contact
+- 🍎 Harry moves away from the Voldermort and toward Dumbledoor
+- 💣 Randomly appearing Dumbledore that end the game on contact
 - 🎵 Audio feedback on game events
 - 💾 Local high-score persistence
-- 📱 Fully responsive design with grid layout
 
 ---
 
-## 🎮 Demo
-<!-- Replace with a link or GIF -->
-> ![Game Demo](demo.gif)  
-> _*Add a screen recording or deploy using GitHub Pages*_
 
 ---
 
 ## 🛠️ Technologies
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript
 
 ---
 
-## 🧑‍💻 Setup Instructions
+## 🧑‍💻 Link to Play
+  The game is already deployed. Please use the following link to navigate to the game
 
-1. **Clone the Repository**
-```bash
-git clone https://github.com/your-username/snake-game.git
-cd snake-game
+  ---
+
+## Contributing
+  Pull requests are welcome!
+  If you want to suggest a new feature or fix a bug, please create an issue first to discuss your idea.
+  ---
