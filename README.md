@@ -39,7 +39,7 @@ Nagini waits to eat food while Lord Voldermort tries to catch Harry. But Harry r
 
   ---
 
-## Contributing
-  Pull requests are welcome!
+## 🤝 Contributing
+  Pull requests are welcome
   If you want to suggest a new feature or fix a bug, please create an issue first to discuss your idea.
   ---
